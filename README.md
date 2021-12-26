@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+## To Rent or Lend a car hit [here](https://drive-well.netlify.app/).
+
+The sample user data are as follows
+Username: firstcar@gmail.com
+Password: Firstcar5
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
